@@ -75,16 +75,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tjwndud041006&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tjwndud041006&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjwndud041006&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="GitHub Streak" />
-</div>
 
 
 ## 🚀 Featured Projects

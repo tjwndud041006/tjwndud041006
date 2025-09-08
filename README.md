@@ -60,17 +60,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=당신의깃허브아이디&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=당신의깃허브아이디&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tjwndud041006&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjwndud041006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=당신의깃허브아이디&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tjwndud041006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=당신의깃허브아이디&theme=tokyonight&no-frame=true&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tjwndud041006&theme=tokyonight&no-frame=true&column=7" width="100%"/>
 </div>
 
 ## 🐍 Contribution Graph
@@ -85,11 +85,11 @@
 ## 📌 Pinned Repositories
 
 <div align="center">
-  <a href="https://github.com/tjwndud041006/프로젝트1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwndud041006&repo=프로젝트1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tjwndud041006/DScover_main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwndud041006&repo=DScover_main&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/tjwndud041006/프로젝트2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwndud041006&repo=프로젝트2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tjwndud041006/mysuni">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjwndud041006&repo=mysuni&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -106,14 +106,11 @@
   <a href="https://linkedin.com/in/당신의링크드인">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:당신의이메일">
+  <a href="mailto:tjwndud04@g.skku.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://당신의블로그주소">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="https://twitter.com/당신의트위터">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 

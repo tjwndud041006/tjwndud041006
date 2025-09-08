@@ -1,7 +1,7 @@
 # Hello! 👋 I'm Seo Juyoung
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&width=500&lines=Computer+Science+Student;Full-Stack+Developer;Data+Science+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&width=500&lines=Computer+Education+Student;Data+Science+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -86,23 +86,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjwndud041006&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=c9d1d9" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tjwndud041006&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tjwndud041006&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&area_color=21262d" width="100%"/>
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -115,20 +98,7 @@
   </a>
 </div>
 
----
 
-## 🎯 Current Focus
-
-```javascript
-const currentGoals = {
-    learning: ["Advanced Data Structures", "Machine Learning", "Cloud Computing"],
-    building: ["Full-Stack Web Applications", "Data Analysis Projects"],
-    exploring: ["Open Source Contributions", "Research Opportunities"],
-    improving: ["Algorithm Problem Solving", "System Design"]
-};
-```
-
----
 
 ## 📫 Let's Connect!
 

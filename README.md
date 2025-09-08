@@ -83,8 +83,8 @@
   <a href="https://github.com/tjwndud041006/DScover_main">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tjwndud041006&repo=DScover_main&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/tjwndud041006/mysuni">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tjwndud041006&repo=mysuni&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+  <a href="https://github.com/tjwndud041006/mySUNI">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=tjwndud041006&repo=mySUNI&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
   </a>
 </div>
 
